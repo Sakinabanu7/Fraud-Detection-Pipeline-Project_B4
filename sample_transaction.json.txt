@@ -1,0 +1,82 @@
+[
+  {
+    "transaction_id": "txn001",
+    "user_id": "user001",
+    "amount": 2500,
+    "country": "USA",
+    "ip": "192.168.1.1",
+    "timestamp": "2025-07-18T10:00:00Z"
+  },
+  {
+    "transaction_id": "txn002",
+    "user_id": "user001",
+    "amount": 2700,
+    "country": "USA",
+    "ip": "192.168.1.1",
+    "timestamp": "2025-07-18T10:03:00Z"
+  },
+  {
+    "transaction_id": "txn003",
+    "user_id": "user001",
+    "amount": 2900,
+    "country": "USA",
+    "ip": "192.168.1.1",
+    "timestamp": "2025-07-18T10:06:00Z"
+  },
+  {
+    "transaction_id": "txn004",
+    "user_id": "user002",
+    "amount": 7000,
+    "country": "USA",
+    "ip": "192.168.2.2",
+    "timestamp": "2025-07-18T11:00:00Z"
+  },
+  {
+    "transaction_id": "txn005",
+    "user_id": "user003",
+    "amount": 1500,
+    "country": "Germany",
+    "ip": "192.168.3.3",
+    "timestamp": "2025-07-18T12:00:00Z"
+  },
+  {
+    "transaction_id": "txn006",
+    "user_id": "user003",
+    "amount": 1600,
+    "country": "USA",
+    "ip": "192.168.3.3",
+    "timestamp": "2025-07-18T12:05:00Z"
+  },
+  {
+    "transaction_id": "txn007",
+    "user_id": "user004",
+    "amount": 5200,
+    "country": "India",
+    "ip": "192.168.4.4",
+    "timestamp": "2025-07-18T13:00:00Z"
+  },
+  {
+    "transaction_id": "txn008",
+    "user_id": "user004",
+    "amount": 1500,
+    "country": "India",
+    "ip": "192.168.4.4",
+    "timestamp": "2025-07-18T13:02:00Z"
+  },
+  {
+    "transaction_id": "txn009",
+    "user_id": "user004",
+    "amount": 1800,
+    "country": "India",
+    "ip": "192.168.4.4",
+    "timestamp": "2025-07-18T13:04:00Z"
+  },
+  {
+    "transaction_id": "txn010",
+    "user_id": "user004",
+    "amount": 1100,
+    "country": "India",
+    "ip": "192.168.4.4",
+    "timestamp": "2025-07-18T13:06:00Z"
+  }
+]
