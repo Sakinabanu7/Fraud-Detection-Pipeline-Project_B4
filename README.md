@@ -7,7 +7,7 @@ This project demonstrates a real-time fraud detection system using **Cloud Pub/S
 
 ---
 
-**##  Project Overview**
+##  Project Overview
 
 - **Objective**: Detect potentially fraudulent transactions in real time.
 - **Tools Used**:
@@ -18,7 +18,7 @@ This project demonstrates a real-time fraud detection system using **Cloud Pub/S
 
 ---
 
-**##  Fraud Rules Implemented**
+##  Fraud Rules Implemented
 
 The pipeline flags a transaction as fraudulent if **any** of the following conditions are met:
 
@@ -28,7 +28,7 @@ The pipeline flags a transaction as fraudulent if **any** of the following condi
 
 ---
 
-**## 📁 Input Data (JSON)**
+## 📁 Input Data (JSON)
 
 Format of transaction data from `sample_transactions.json` (used in the project):
 
